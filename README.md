@@ -10,7 +10,7 @@ App that allows a user to input a message that is then encrypted and turned into
 * HTML
 * CSS
   * Materialize CSS
-*JavaScript
+* JavaScript
 
 ### Features
 * Message encryption/url generation
